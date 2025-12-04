@@ -22,6 +22,8 @@ while (page <= lastPage) {
 
   lastPage = list.totalPages;
   page++;
+
+  await new Promise((resolve) => setTimeout(() => resolve(undefined), 200));
 }
 
 await writeFile(
@@ -31,15 +33,26 @@ await writeFile(
 
 // With details
 
-let cards: unknown[] = [];
+let cards = "[";
+let cardsWithErrors = "";
 
 for (const p of slimCards) {
   const response = await fetch(`${BASE_URL}/${p.cardId}`);
+  if (!response.ok) {
+    console.info(`Finished card with errors: ${p.cardId}`);
+    cardsWithErrors += `${p.cardId}\n`;
+    continue;
+  }
 
-  const card = (await response.json()) as unknown;
-  cards.push(card);
+  const card = await response.text();
+  cards += `${card},`;
 
   console.info(`Finished card: ${p.cardId}`);
+
+  await new Promise((resolve) => setTimeout(() => resolve(undefined), 200));
 }
 
-await writeFile("./data/cards.json", JSON.stringify(cards, undefined, 2));
+cards = cards.slice(0, cards.length - 1) + "]";
+
+await writeFile("./data/cards.json", cards);
+await writeFile("./data/cards-error.json", cardsWithErrors);
