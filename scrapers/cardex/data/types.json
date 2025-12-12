@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "icon": "",
+    "name": "Grass"
+  },
+  {
+    "id": 2,
+    "icon": "",
+    "name": "Water"
+  },
+  {
+    "id": 3,
+    "icon": "",
+    "name": "Fire"
+  },
+  {
+    "id": 4,
+    "icon": "",
+    "name": "Lightning"
+  },
+  {
+    "id": 5,
+    "icon": "",
+    "name": "Psychic"
+  },
+  {
+    "id": 6,
+    "icon": "",
+    "name": "Darkness"
+  },
+  {
+    "id": 7,
+    "icon": "",
+    "name": "Metal"
+  },
+  {
+    "id": 8,
+    "icon": "",
+    "name": "Fighting"
+  },
+  {
+    "id": 9,
+    "icon": "",
+    "name": "Dragon"
+  },
+  {
+    "id": 10,
+    "icon": "",
+    "name": "Colorless"
+  },
+  {
+    "id": 11,
+    "icon": "",
+    "name": "Fairy"
+  },
+  {
+    "id": 12,
+    "icon": "",
+    "name": "Trainer - Stadium"
+  },
+  {
+    "id": 13,
+    "icon": "",
+    "name": "Trainer"
+  },
+  {
+    "id": 14,
+    "icon": "",
+    "name": "Trainer - Supporter"
+  },
+  {
+    "id": 15,
+    "icon": "",
+    "name": "Trainer - Item"
+  },
+  {
+    "id": 16,
+    "icon": "",
+    "name": "Energy"
+  },
+  {
+    "id": 17,
+    "icon": "",
+    "name": "Energy"
+  },
+  {
+    "id": 18,
+    "icon": "",
+    "name": "Unknown"
+  },
+  {
+    "id": 19,
+    "icon": "",
+    "name": "Darkness Grass"
+  },
+  {
+    "id": 20,
+    "icon": "",
+    "name": "Darkness Fire"
+  },
+  {
+    "id": 21,
+    "icon": "",
+    "name": "Darkness Water"
+  },
+  {
+    "id": 22,
+    "icon": "",
+    "name": "Darkness Lightning"
+  },
+  {
+    "id": 23,
+    "icon": "",
+    "name": "Darkness Psychic"
+  },
+  {
+    "id": 24,
+    "icon": "",
+    "name": "Darkness Fighting"
+  },
+  {
+    "id": 25,
+    "icon": "",
+    "name": "Darkness Darkness"
+  },
+  {
+    "id": 26,
+    "icon": "",
+    "name": "Darkness Grass"
+  },
+  {
+    "id": 27,
+    "icon": "",
+    "name": "Darkness Fire"
+  },
+  {
+    "id": 28,
+    "icon": "",
+    "name": "Darkness Water"
+  },
+  {
+    "id": 29,
+    "icon": "",
+    "name": "Darkness Lightning"
+  },
+  {
+    "id": 30,
+    "icon": "",
+    "name": "Psychic"
+  },
+  {
+    "id": 31,
+    "icon": "",
+    "name": "Fighting"
+  },
+  {
+    "id": 32,
+    "icon": "",
+    "name": "Fire and Lightning"
+  },
+  {
+    "id": 33,
+    "icon": "",
+    "name": "Fire and Water"
+  },
+  {
+    "id": 34,
+    "icon": "",
+    "name": "Lightning and Water"
+  },
+  {
+    "id": 35,
+    "icon": "",
+    "name": "Water and Fighting"
+  },
+  {
+    "id": 36,
+    "icon": "",
+    "name": "Colorless and Psychic"
+  },
+  {
+    "id": 37,
+    "icon": "",
+    "name": "Grass and Fire"
+  },
+  {
+    "id": 38,
+    "icon": "",
+    "name": "Fairy and Water"
+  },
+  {
+    "id": 39,
+    "icon": "",
+    "name": "Fairy and Psychic"
+  },
+  {
+    "id": 40,
+    "icon": "",
+    "name": "Lightning and Grass"
+  },
+  {
+    "id": 41,
+    "icon": "",
+    "name": "Trainer - Pokémon Tool"
+  }
+]

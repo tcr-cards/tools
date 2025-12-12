@@ -15,6 +15,8 @@ export const mapPokecardexToCard = (
   rarityId: value.i,
   order: value.e,
   typeId: value.c,
-  standardImage: `https://pokecardex.b-cdn.net/assets/images/${region === "WORLD" ? "sets" : region === "JAPAN" ? "sets_jp" : "sets_chn"}/${sets.get(value.b)?.code.toUpperCase()}/${region === "WORLD" ? "US/" : ""}${value.h.split("/")[0]}.jpg?class=sd`,
-  highImage: `https://pokecardex.b-cdn.net/assets/images/${region === "WORLD" ? "sets" : region === "JAPAN" ? "sets_jp" : "sets_chn"}/${sets.get(value.b)?.code.toUpperCase()}/${region === "WORLD" ? "US/" : ""}HD/${value.h.split("/")[0]}.jpg`,
+  standardImage: `https://pokecardex.b-cdn.net/assets/images/${region === "WORLD" ? "sets" : region === "JAPAN" ? "sets_jp" : "sets_chn"}/${sets.get(value.b)?.code.toUpperCase()}/${region === "WORLD" ? "US/" : ""}${value.e}.jpg?class=sd`,
+  standardImageFallback: `https://pokecardex.b-cdn.net/assets/images/${region === "WORLD" ? "sets" : region === "JAPAN" ? "sets_jp" : "sets_chn"}/${sets.get(value.b)?.code.toUpperCase()}/${value.e}.jpg?class=sd`,
+  highImage: `https://pokecardex.b-cdn.net/assets/images/${region === "WORLD" ? "sets" : region === "JAPAN" ? "sets_jp" : "sets_chn"}/${sets.get(value.b)?.code.toUpperCase()}/${region === "WORLD" ? "US/" : ""}${region !== "CHINA" ? "HD/" : ""}${value.e}.jpg`,
+  highImageFallback: `https://pokecardex.b-cdn.net/assets/images/${region === "WORLD" ? "sets" : region === "JAPAN" ? "sets_jp" : "sets_chn"}/${sets.get(value.b)?.code.toUpperCase()}/${region !== "CHINA" ? "HD/" : ""}${value.e}.jpg`,
 });

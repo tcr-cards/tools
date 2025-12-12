@@ -1,0 +1,22 @@
+[
+  {
+    "id": 5,
+    "name": "Scarlet & Violet",
+    "order": 1
+  },
+  {
+    "id": 4,
+    "name": "Sword & Shield",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "name": "Sun & Moon",
+    "order": 3
+  },
+  {
+    "id": 1,
+    "name": "Promos",
+    "order": 5
+  }
+]

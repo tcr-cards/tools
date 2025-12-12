@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 102,
+    "name": "Departure Special Pack",
+    "code": "csvl1c",
+    "releaseDate": "2025-06-13T07:59:39.000Z",
+    "type": "PRIMARY",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSVL1C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSVL1C.png"
+  },
+  {
+    "id": 101,
+    "name": "Happy Set: Reward Pack",
+    "code": "csvh3pc",
+    "releaseDate": "2025-09-12T07:12:26.000Z",
+    "type": "DECK",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSVH3PC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSVH3PC.png"
+  },
+  {
+    "id": 100,
+    "name": "Happy Set: Modification Pack",
+    "code": "csvh3ac",
+    "releaseDate": "2025-09-12T07:07:39.000Z",
+    "type": "DECK",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSVH3AC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSVH3AC.png"
+  },
+  {
+    "id": 99,
+    "name": "Happy Set: Altaria & Latios & Infernape & Maushold",
+    "code": "csvh3c",
+    "releaseDate": "2025-09-11T22:00:00.000Z",
+    "type": "DECK",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSVH3C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSVH3C.png"
+  },
+  {
+    "id": 98,
+    "name": "Gem Pack Volume 3",
+    "code": "cbb3c",
+    "releaseDate": "2025-09-26T11:28:04.000Z",
+    "type": "PRIMARY",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CBB3C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CBB3C.png"
+  },
+  {
+    "id": 97,
+    "name": "Dark Crystal Blaze",
+    "code": "csv5c",
+    "releaseDate": "2025-09-12T09:02:49.000Z",
+    "type": "PRIMARY",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSV5C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSV5C.png"
+  },
+  {
+    "id": 96,
+    "name": "Bonus Round",
+    "code": "csv4c",
+    "releaseDate": "2025-07-17T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSV4C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSV4C.png"
+  },
+  {
+    "id": 95,
+    "name": "Gem Pack Volume 2",
+    "code": "cbb2c",
+    "releaseDate": "2025-05-15T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CBB2C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CBB2C.png"
+  },
+  {
+    "id": 94,
+    "name": "Happy Combo Reward Pack",
+    "code": "csvh2pc",
+    "releaseDate": "2025-05-15T22:00:00.000Z",
+    "type": "DECK",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSVH2PC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSVH2PC.png"
+  },
+  {
+    "id": 93,
+    "name": "Happy Combo Transformation Pack",
+    "code": "csvh2ac",
+    "releaseDate": "2025-05-15T22:00:00.000Z",
+    "type": "DECK",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSVH2AC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSVH2AC.png"
+  },
+  {
+    "id": 92,
+    "name": "Happy Combo",
+    "code": "csvh2c",
+    "releaseDate": "2025-05-15T22:00:00.000Z",
+    "type": "DECK",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSVH2C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSVH2C.png"
+  },
+  {
+    "id": 91,
+    "name": "Fearless Terastal",
+    "code": "csv3c",
+    "releaseDate": "2025-05-15T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSV3C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSV3C.png"
+  },
+  {
+    "id": 90,
+    "name": "Miracle Journey",
+    "code": "csv2c",
+    "releaseDate": "2025-03-20T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSV2C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSV2C.png"
+  },
+  {
+    "id": 89,
+    "name": "Champion Reward Pack",
+    "code": "csve1pc",
+    "releaseDate": "2025-02-27T23:00:00.000Z",
+    "type": "DECK",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSVE1PC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSVE1PC.png"
+  },
+  {
+    "id": 88,
+    "name": "Battle Party Dream Together Set",
+    "code": "csve1c",
+    "releaseDate": "2025-02-27T23:00:00.000Z",
+    "type": "DECK",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSVE1C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSVE1C.png"
+  },
+  {
+    "id": 87,
+    "name": "Gem Pack Volume 1",
+    "code": "cbb1c",
+    "releaseDate": "2025-01-16T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CBB1C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CBB1C.png"
+  },
+  {
+    "id": 86,
+    "name": "Collect 151",
+    "code": "151c",
+    "releaseDate": "2025-01-16T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/151C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/151C.png"
+  },
+  {
+    "id": 85,
+    "name": "Happy Combo Reward Pack",
+    "code": "csvh1pc",
+    "releaseDate": "2025-01-16T23:00:00.000Z",
+    "type": "DECK",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSVH1PC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSVH1PC.png"
+  },
+  {
+    "id": 84,
+    "name": "Happy Combo Start Deck",
+    "code": "csvh1c",
+    "releaseDate": "2025-01-16T23:00:00.000Z",
+    "type": "DECK",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSVH1C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSVH1C.png"
+  },
+  {
+    "id": 83,
+    "name": "Happy Combo Modification Pack",
+    "code": "csvh1ac",
+    "releaseDate": "2025-01-16T23:00:00.000Z",
+    "type": "DECK",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSVH1AC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSVH1AC.png"
+  },
+  {
+    "id": 82,
+    "name": "Eternal Birth",
+    "code": "csv1c",
+    "releaseDate": "2025-01-16T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSV1C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSV1C.png"
+  },
+  {
+    "id": 81,
+    "name": "Giratina Vstar Advanced Deck Building Gift Box",
+    "code": "csxc",
+    "releaseDate": "2024-12-20T23:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSXC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSXC.png"
+  },
+  {
+    "id": 80,
+    "name": "Pokémon Ball Gift Box: Art Illustration Celebration Gathering",
+    "code": "csyc",
+    "releaseDate": "2024-12-05T23:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSYC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSYC.png"
+  },
+  {
+    "id": 79,
+    "name": "Pikachu & Eevee Card Display Pendant Gift Box",
+    "code": "csolc",
+    "releaseDate": "2024-12-05T23:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSOLC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSOLC.png"
+  },
+  {
+    "id": 78,
+    "name": "Variety Treasure Box Collection",
+    "code": "cszc",
+    "releaseDate": "2024-11-14T23:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSZC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSZC.png"
+  },
+  {
+    "id": 77,
+    "name": "Victory Star Guide",
+    "code": "cs65c",
+    "releaseDate": "2024-11-14T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS65C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS65C.png"
+  },
+  {
+    "id": 76,
+    "name": "Radiant Energy Third Round",
+    "code": "cs61c",
+    "releaseDate": "2024-11-14T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS61C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS61C.png"
+  },
+  {
+    "id": 75,
+    "name": "Pokémon Card Display Sets Volume 3",
+    "code": "csuc",
+    "releaseDate": "2024-10-23T22:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSUC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSUC.png"
+  },
+  {
+    "id": 74,
+    "name": "Azure Shadow - Pursuit",
+    "code": "cs6bc",
+    "releaseDate": "2024-09-19T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS6BC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS6BC.png"
+  },
+  {
+    "id": 73,
+    "name": "Azure Shadow - Roar",
+    "code": "cs6ac",
+    "releaseDate": "2024-09-19T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS6AC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS6AC.png"
+  },
+  {
+    "id": 72,
+    "name": "Scarlet & Violet Promotional",
+    "code": "svp",
+    "releaseDate": "2024-08-02T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 1,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/SVP.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/SVP.png"
+  },
+  {
+    "id": 71,
+    "name": "Shadow of Glory",
+    "code": "cs55c",
+    "releaseDate": "2024-08-01T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS55C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS55C.png"
+  },
+  {
+    "id": 70,
+    "name": "Mew Advanced Deck Building Gift Box",
+    "code": "csoc",
+    "releaseDate": "2024-07-11T22:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSOC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSOC.png"
+  },
+  {
+    "id": 69,
+    "name": "Radiant Energy Second Round",
+    "code": "cs51c",
+    "releaseDate": "2024-07-11T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS51C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS51C.png"
+  },
+  {
+    "id": 68,
+    "name": "Pokémon Ball Gift Box: Art Illustration Celebration Scene",
+    "code": "csjc",
+    "releaseDate": "2024-06-27T22:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSJC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSJC.png"
+  },
+  {
+    "id": 67,
+    "name": "Brave Stars Deck Building Gift Box",
+    "code": "csnc",
+    "releaseDate": "2024-06-17T22:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSNC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSNC.png"
+  },
+  {
+    "id": 66,
+    "name": "Pokémon Card Display Sets Volume 2",
+    "code": "csmc",
+    "releaseDate": "2024-06-17T22:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMC.png"
+  },
+  {
+    "id": 65,
+    "name": "Gallant Galaxy V Starter Deck",
+    "code": "cs5dc",
+    "releaseDate": "2024-06-17T22:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS5DC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS5DC.png"
+  },
+  {
+    "id": 64,
+    "name": "Brave Stars - Brave",
+    "code": "cs5bc",
+    "releaseDate": "2024-06-17T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS5BC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS5BC.png"
+  },
+  {
+    "id": 63,
+    "name": "Brave Stars - Charm",
+    "code": "cs5ac",
+    "releaseDate": "2024-06-17T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS5AC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS5AC.png"
+  },
+  {
+    "id": 62,
+    "name": "Trainer Collection Gift Box",
+    "code": "csic",
+    "releaseDate": "2024-05-16T22:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSIC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSIC.png"
+  },
+  {
+    "id": 61,
+    "name": "Start Deck 100",
+    "code": "cs4dac",
+    "releaseDate": "2024-05-16T22:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS4DAC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS4DAC.png"
+  },
+  {
+    "id": 60,
+    "name": "Eevee Advanced Gift Box",
+    "code": "cshc",
+    "releaseDate": "2024-04-25T22:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSHC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSHC.png"
+  },
+  {
+    "id": 59,
+    "name": "Final Flame Dance",
+    "code": "cs45c",
+    "releaseDate": "2024-04-25T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS45C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS45C.png"
+  },
+  {
+    "id": 58,
+    "name": "Radiant Energy First Round",
+    "code": "cs41c",
+    "releaseDate": "2024-03-28T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS41C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS41C.png"
+  },
+  {
+    "id": 57,
+    "name": "Pokémon Card Display Sets",
+    "code": "csgc",
+    "releaseDate": "2024-02-29T23:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSGC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSGC.png"
+  },
+  {
+    "id": 56,
+    "name": "Dragon Resurgence",
+    "code": "csfc",
+    "releaseDate": "2024-02-29T23:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSFC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSFC.png"
+  },
+  {
+    "id": 55,
+    "name": "Nine Colors Gathering - Origin",
+    "code": "cs4bc",
+    "releaseDate": "2024-02-29T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS4BC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS4BC.png"
+  },
+  {
+    "id": 54,
+    "name": "Nine Colors Gathering - Friends",
+    "code": "cs4ac",
+    "releaseDate": "2024-02-29T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS4AC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS4AC.png"
+  },
+  {
+    "id": 53,
+    "name": "Quadrilateral Connection Box Sets",
+    "code": "csec",
+    "releaseDate": "2024-01-18T23:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSEC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSEC.png"
+  },
+  {
+    "id": 52,
+    "name": "Metal Modification Pack",
+    "code": "csmpqc",
+    "releaseDate": "2024-01-12T23:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPQC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPQC.png"
+  },
+  {
+    "id": 51,
+    "name": "Darkness Modification Pack",
+    "code": "csmppc",
+    "releaseDate": "2024-01-12T23:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPPC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPPC.png"
+  },
+  {
+    "id": 50,
+    "name": "Fighting Modification Pack",
+    "code": "csmpoc",
+    "releaseDate": "2024-01-12T23:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPOC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPOC.png"
+  },
+  {
+    "id": 49,
+    "name": "Psychic Modification Pack",
+    "code": "csmpnc",
+    "releaseDate": "2024-01-12T23:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPNC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPNC.png"
+  },
+  {
+    "id": 48,
+    "name": "Lightning Modification Pack",
+    "code": "csmpmc",
+    "releaseDate": "2024-01-12T23:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPMC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPMC.png"
+  },
+  {
+    "id": 47,
+    "name": "Water Modification Pack",
+    "code": "csmplc",
+    "releaseDate": "2024-01-12T23:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPLC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPLC.png"
+  },
+  {
+    "id": 46,
+    "name": "Fire Modification Pack",
+    "code": "csmpkc",
+    "releaseDate": "2024-01-12T23:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPKC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPKC.png"
+  },
+  {
+    "id": 45,
+    "name": "Grass Modification Pack",
+    "code": "csmpjc",
+    "releaseDate": "2024-01-12T23:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPJC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPJC.png"
+  },
+  {
+    "id": 44,
+    "name": "Scorching Skies",
+    "code": "cs35c",
+    "releaseDate": "2024-01-04T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS35C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS35C.png"
+  },
+  {
+    "id": 43,
+    "name": "Pokémon Ball Gift Box: Legendary Pikachu Celebration",
+    "code": "csdc",
+    "releaseDate": "2023-12-07T23:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSDC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSDC.png"
+  },
+  {
+    "id": 42,
+    "name": "Primordial Arts Torrent Deck Building Box",
+    "code": "cscc",
+    "releaseDate": "2023-11-16T23:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSCC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSCC.png"
+  },
+  {
+    "id": 41,
+    "name": "Primordial Arts Overgrow Deck Building Box",
+    "code": "csbc",
+    "releaseDate": "2023-11-16T23:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSBC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSBC.png"
+  },
+  {
+    "id": 40,
+    "name": "Primordial Arts V Starter Deck",
+    "code": "cs3dc",
+    "releaseDate": "2023-11-16T23:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS3DC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS3DC.png"
+  },
+  {
+    "id": 39,
+    "name": "Family Pokémon Trading Card Game",
+    "code": "cs2dac",
+    "releaseDate": "2023-11-16T23:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS2DAC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS2DAC.png"
+  },
+  {
+    "id": 38,
+    "name": "Primordial Arts Torrent",
+    "code": "cs3bc",
+    "releaseDate": "2023-11-16T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS3BC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS3BC.png"
+  },
+  {
+    "id": 37,
+    "name": "Primordial Arts Overgrow",
+    "code": "cs3ac",
+    "releaseDate": "2023-11-16T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS3AC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS3AC.png"
+  },
+  {
+    "id": 36,
+    "name": "Meowth Little Tricks",
+    "code": "cs21c",
+    "releaseDate": "2023-11-16T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS21C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS21C.png"
+  },
+  {
+    "id": 35,
+    "name": "Brilliant Counterattack",
+    "code": "cs25c",
+    "releaseDate": "2023-09-28T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS25C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS25C.png"
+  },
+  {
+    "id": 34,
+    "name": "Golden Energy",
+    "code": "csm21c",
+    "releaseDate": "2023-09-08T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM21C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM21C.png"
+  },
+  {
+    "id": 33,
+    "name": "Vivid Portrayals Indigo",
+    "code": "cs2bc",
+    "releaseDate": "2023-08-17T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS2BC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS2BC.png"
+  },
+  {
+    "id": 32,
+    "name": "Vivid Portrayals Obsidian",
+    "code": "cs2ac",
+    "releaseDate": "2023-08-17T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS2AC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS2AC.png"
+  },
+  {
+    "id": 31,
+    "name": "Dynamax Tactics",
+    "code": "cs15c",
+    "releaseDate": "2023-06-27T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS15C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS15C.png"
+  },
+  {
+    "id": 30,
+    "name": "Sword & Shield Promotional",
+    "code": "spp",
+    "releaseDate": "2023-05-27T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/SPP.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/SPP.png"
+  },
+  {
+    "id": 29,
+    "name": "Dynamax Clash Deck Building Box",
+    "code": "csac",
+    "releaseDate": "2023-05-18T22:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSAC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSAC.png"
+  },
+  {
+    "id": 28,
+    "name": "Dynamax Clash V Starter Deck",
+    "code": "cs1dc",
+    "releaseDate": "2023-05-18T22:00:00.000Z",
+    "type": "DECK",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS1DC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS1DC.png"
+  },
+  {
+    "id": 27,
+    "name": "Dynamax Clash Flame",
+    "code": "cs1bc",
+    "releaseDate": "2023-05-18T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS1BC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS1BC.png"
+  },
+  {
+    "id": 26,
+    "name": "Dynamax Clash Thunder",
+    "code": "cs1ac",
+    "releaseDate": "2023-05-18T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 2,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CS1AC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CS1AC.png"
+  },
+  {
+    "id": 25,
+    "name": "Battle Party Set Reward Pack",
+    "code": "csmpic",
+    "releaseDate": "2023-04-14T22:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPIC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPIC.png"
+  },
+  {
+    "id": 24,
+    "name": "Battle Party Set Metal Deck",
+    "code": "csmphc",
+    "releaseDate": "2023-04-14T22:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPHC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPHC.png"
+  },
+  {
+    "id": 23,
+    "name": "Battle Party Set Darkness Deck",
+    "code": "csmpgc",
+    "releaseDate": "2023-04-14T22:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPGC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPGC.png"
+  },
+  {
+    "id": 22,
+    "name": "Battle Party Set Fighting Deck",
+    "code": "csmpfc",
+    "releaseDate": "2023-04-14T22:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPFC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPFC.png"
+  },
+  {
+    "id": 21,
+    "name": "Battle Party Set Psychic Deck",
+    "code": "csmpec",
+    "releaseDate": "2023-04-14T22:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPEC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPEC.png"
+  },
+  {
+    "id": 20,
+    "name": "Battle Party Set Lightning Deck",
+    "code": "csmpdc",
+    "releaseDate": "2023-04-14T22:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPDC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPDC.png"
+  },
+  {
+    "id": 19,
+    "name": "Battle Party Set Water Deck",
+    "code": "csmpcc",
+    "releaseDate": "2023-04-14T22:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPCC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPCC.png"
+  },
+  {
+    "id": 18,
+    "name": "Battle Party Set Fire Deck",
+    "code": "csmpbc",
+    "releaseDate": "2023-04-14T22:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPBC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPBC.png"
+  },
+  {
+    "id": 17,
+    "name": "Battle Party Set Grass Deck",
+    "code": "csmpac",
+    "releaseDate": "2023-04-14T22:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMPAC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMPAC.png"
+  },
+  {
+    "id": 16,
+    "name": "Shining Pokémon Poké Ball Box",
+    "code": "csmjc",
+    "releaseDate": "2023-03-16T23:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMJC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMJC.png"
+  },
+  {
+    "id": 15,
+    "name": "Arceus & Dialga & Palkia GX Premium Deck Building Box",
+    "code": "csmac",
+    "releaseDate": "2023-03-16T23:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMAC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMAC.png"
+  },
+  {
+    "id": 14,
+    "name": "Striking Competition",
+    "code": "csm25c",
+    "releaseDate": "2023-03-16T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM25C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM25C.png"
+  },
+  {
+    "id": 13,
+    "name": "Shining Synergy GX Starter Deck",
+    "code": "csm2dc",
+    "releaseDate": "2023-01-17T23:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM2DC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM2DC.png"
+  },
+  {
+    "id": 12,
+    "name": "Shining Synergy Summon",
+    "code": "csm2cc",
+    "releaseDate": "2023-01-17T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM2CC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM2CC.png"
+  },
+  {
+    "id": 11,
+    "name": "Shining Synergy Supreme",
+    "code": "csm2bc",
+    "releaseDate": "2023-01-17T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM2BC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM2BC.png"
+  },
+  {
+    "id": 10,
+    "name": "Shining Synergy Shower",
+    "code": "csm2ac",
+    "releaseDate": "2023-01-17T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM2AC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM2AC.png"
+  },
+  {
+    "id": 9,
+    "name": "Eevee-GX Box Sets",
+    "code": "csmyc",
+    "releaseDate": "2023-01-05T23:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMYC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMYC.png"
+  },
+  {
+    "id": 8,
+    "name": "Battle Elite",
+    "code": "csm15c",
+    "releaseDate": "2022-12-15T23:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM15C.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM15C.png"
+  },
+  {
+    "id": 7,
+    "name": "Lillie's Support Box",
+    "code": "csmlc",
+    "releaseDate": "2022-11-10T23:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSMLC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSMLC.png"
+  },
+  {
+    "id": 6,
+    "name": "Energies",
+    "code": "nrgy",
+    "releaseDate": "2022-10-27T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 5,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/NRGY.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/NRGY.png"
+  },
+  {
+    "id": 5,
+    "name": "Sun & Moon Promotional",
+    "code": "smp",
+    "releaseDate": "2022-10-27T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/SMP.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/SMP.png"
+  },
+  {
+    "id": 4,
+    "name": "Storming Emergence GX Starter Deck",
+    "code": "csm1dc",
+    "releaseDate": "2022-10-27T22:00:00.000Z",
+    "type": "DECK",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM1DC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM1DC.png"
+  },
+  {
+    "id": 3,
+    "name": "Storming Emergence Abundant",
+    "code": "csm1cc",
+    "releaseDate": "2022-10-27T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM1CC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM1CC.png"
+  },
+  {
+    "id": 2,
+    "name": "Storming Emergence Verdant",
+    "code": "csm1bc",
+    "releaseDate": "2022-10-27T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM1BC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM1BC.png"
+  },
+  {
+    "id": 1,
+    "name": "Storming Emergence Radiant",
+    "code": "csm1ac",
+    "releaseDate": "2022-10-27T22:00:00.000Z",
+    "type": "PRIMARY",
+    "order": 3,
+    "logo": "https://pokecardex.b-cdn.net/assets/images/logos_chn/CSM1AC.png",
+    "symbol": "https://pokecardex.b-cdn.net/assets/images/symboles_chn/CSM1AC.png"
+  }
+]

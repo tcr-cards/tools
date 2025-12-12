@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "Common (World)",
+    "icon": ""
+  },
+  {
+    "id": 2,
+    "name": "Uncommon (World)",
+    "icon": ""
+  },
+  {
+    "id": 3,
+    "name": "Rare (World)",
+    "icon": ""
+  },
+  {
+    "id": 4,
+    "name": "Holo Rare (World)",
+    "icon": ""
+  },
+  {
+    "id": 5,
+    "name": "Ultra Rare (World)",
+    "icon": ""
+  },
+  {
+    "id": 6,
+    "name": "Ilustration Rare (World)",
+    "icon": ""
+  },
+  {
+    "id": 7,
+    "name": "PROMO (World)",
+    "icon": ""
+  },
+  {
+    "id": 8,
+    "name": "Common (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 9,
+    "name": "Uncommon (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 10,
+    "name": "Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 11,
+    "name": "Doble Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 12,
+    "name": "Triple Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 13,
+    "name": "Ultra Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 14,
+    "name": "Rainbow Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 15,
+    "name": "Secret Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 16,
+    "name": "Shiny Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 17,
+    "name": "Shiny Ultra Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 18,
+    "name": "Amazing Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 19,
+    "name": "PROMO (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 20,
+    "name": "Holo Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 21,
+    "name": "Fixed (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 22,
+    "name": "Character Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 23,
+    "name": "Secret Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 24,
+    "name": "Holo Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 25,
+    "name": "Holo Common (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 26,
+    "name": "Uncommon (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 27,
+    "name": "Shiny Ultra Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 28,
+    "name": "Character Super Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 29,
+    "name": "Kagayaku (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 30,
+    "name": "Ilustration Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 31,
+    "name": "Special Ilustration Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 32,
+    "name": "Special Ilustration Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 33,
+    "name": "Ilustration Rare (World)",
+    "icon": ""
+  },
+  {
+    "id": 34,
+    "name": "Ultra Rare (World)",
+    "icon": ""
+  },
+  {
+    "id": 35,
+    "name": "Special Ilustration Rare (World)",
+    "icon": ""
+  },
+  {
+    "id": 36,
+    "name": "Secret Rare (World)",
+    "icon": ""
+  },
+  {
+    "id": 37,
+    "name": "ACE Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 38,
+    "name": "Shiny Rare (World)",
+    "icon": ""
+  },
+  {
+    "id": 39,
+    "name": "Shiny Ultra Rare (World)",
+    "icon": ""
+  },
+  {
+    "id": 40,
+    "name": "ACE Rare (World)",
+    "icon": ""
+  },
+  {
+    "id": 42,
+    "name": "Black White Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 43,
+    "name": "Black White Rare (World)",
+    "icon": ""
+  },
+  {
+    "id": 44,
+    "name": "Mega Ultra Rare (Japan)",
+    "icon": ""
+  },
+  {
+    "id": 45,
+    "name": "Mega Ultra Rare (World)",
+    "icon": ""
+  },
+  {
+    "id": 46,
+    "name": "Mega Attack Rare (Japan)",
+    "icon": ""
+  }
+]

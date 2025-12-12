@@ -1,0 +1,97 @@
+[
+  {
+    "id": 20,
+    "name": "Mega Evolution",
+    "order": 0
+  },
+  {
+    "id": 17,
+    "name": "Promotionals",
+    "order": 17
+  },
+  {
+    "id": 18,
+    "name": "Scarlet & Violet",
+    "order": 1
+  },
+  {
+    "id": 19,
+    "name": "Asia Exclusive",
+    "order": 18
+  },
+  {
+    "id": 7,
+    "name": "Diamond & Pearl Era",
+    "order": 8
+  },
+  {
+    "id": 14,
+    "name": "Sword & Shield Era",
+    "order": 2
+  },
+  {
+    "id": 2,
+    "name": "Neo Era",
+    "order": 14
+  },
+  {
+    "id": 4,
+    "name": "e-Series Era",
+    "order": 11
+  },
+  {
+    "id": 1,
+    "name": "Original Era",
+    "order": 15
+  },
+  {
+    "id": 8,
+    "name": "Platinum Era",
+    "order": 7
+  },
+  {
+    "id": 9,
+    "name": "LEGEND Era",
+    "order": 6
+  },
+  {
+    "id": 6,
+    "name": "PCG Era",
+    "order": 9
+  },
+  {
+    "id": 5,
+    "name": "ADV Era",
+    "order": 10
+  },
+  {
+    "id": 10,
+    "name": "Black & White Era",
+    "order": 5
+  },
+  {
+    "id": 11,
+    "name": "XY Era",
+    "order": 4
+  },
+  {
+    "id": 13,
+    "name": "Sun & Moon Era",
+    "order": 3
+  },
+  {
+    "id": 16,
+    "name": "Movies Commemoration",
+    "order": 16
+  },
+  {
+    "id": 15,
+    "name": "Web Era",
+    "order": 12
+  },
+  {
+    "id": 3,
+    "name": "VS Era",
+    "order": 13
+  }
+]

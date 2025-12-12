@@ -8,5 +8,7 @@ export interface Card {
   typeId: number;
   order: number;
   standardImage: string;
+  standardImageFallback: string;
   highImage: string;
+  highImageFallback: string;
 }

@@ -1,0 +1,97 @@
+[
+  {
+    "id": 3,
+    "name": "Promos",
+    "order": 12
+  },
+  {
+    "id": 19,
+    "name": "Mega Evolution",
+    "order": 0
+  },
+  {
+    "id": 12,
+    "name": "Others",
+    "order": 18
+  },
+  {
+    "id": 16,
+    "name": "Scarlet & Violet",
+    "order": 1
+  },
+  {
+    "id": 15,
+    "name": "World Championships",
+    "order": 16
+  },
+  {
+    "id": 1,
+    "name": "McDonald's",
+    "order": 17
+  },
+  {
+    "id": 2,
+    "name": "Trainer Kits",
+    "order": 15
+  },
+  {
+    "id": 18,
+    "name": "Pokemon League",
+    "order": 13
+  },
+  {
+    "id": 14,
+    "name": "Sword & Shield",
+    "order": 2
+  },
+  {
+    "id": 17,
+    "name": "Jumbos",
+    "order": 14
+  },
+  {
+    "id": 13,
+    "name": "Sun & Moon",
+    "order": 3
+  },
+  {
+    "id": 11,
+    "name": "XY",
+    "order": 4
+  },
+  {
+    "id": 10,
+    "name": "Black & White",
+    "order": 5
+  },
+  {
+    "id": 9,
+    "name": "Call of Legends",
+    "order": 6
+  },
+  {
+    "id": 8,
+    "name": "HeartGold SoulSilver",
+    "order": 7
+  },
+  {
+    "id": 7,
+    "name": "Platinum",
+    "order": 8
+  },
+  {
+    "id": 6,
+    "name": "Diamond & Pearl",
+    "order": 9
+  },
+  {
+    "id": 5,
+    "name": "EX",
+    "order": 10
+  },
+  {
+    "id": 4,
+    "name": "Wizards",
+    "order": 11
+  }
+]

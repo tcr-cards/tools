@@ -1,0 +1,822 @@
+[
+  {
+    "id": 145,
+    "name": "Removed or replaced version"
+  },
+  {
+    "id": 69,
+    "name": "Removed or replaced version"
+  },
+  {
+    "id": 146,
+    "name": "Removed or replaced version"
+  },
+  {
+    "id": 1,
+    "name": "Normal"
+  },
+  {
+    "id": 2,
+    "name": "Reverse"
+  },
+  {
+    "id": 3,
+    "name": "Deck"
+  },
+  {
+    "id": 4,
+    "name": "Promo League"
+  },
+  {
+    "id": 5,
+    "name": "Special"
+  },
+  {
+    "id": 6,
+    "name": "1st Edition"
+  },
+  {
+    "id": 7,
+    "name": "Winner (Promo)"
+  },
+  {
+    "id": 8,
+    "name": "Removed or replaced version"
+  },
+  {
+    "id": 9,
+    "name": "Promo Logo"
+  },
+  {
+    "id": 10,
+    "name": "Stamp (PokéTour)"
+  },
+  {
+    "id": 11,
+    "name": "Stamp (PreRelease)"
+  },
+  {
+    "id": 12,
+    "name": "Stamp (League)"
+  },
+  {
+    "id": 13,
+    "name": "Stamp (Professor Program)"
+  },
+  {
+    "id": 14,
+    "name": "Stamp (Scrye)"
+  },
+  {
+    "id": 15,
+    "name": "Stamp (GenCon)"
+  },
+  {
+    "id": 16,
+    "name": "Stamp (InQuest)"
+  },
+  {
+    "id": 17,
+    "name": "Stamp (City Championships)"
+  },
+  {
+    "id": 18,
+    "name": "Stamp (State Championships)"
+  },
+  {
+    "id": 19,
+    "name": "Stamp (National Championships)"
+  },
+  {
+    "id": 20,
+    "name": "Stamp (Gym Challenge)"
+  },
+  {
+    "id": 21,
+    "name": "Stamp (Regional Championships)"
+  },
+  {
+    "id": 22,
+    "name": "Stamp (Stadium Challenge)"
+  },
+  {
+    "id": 23,
+    "name": "Stamp (Pokemon Day)"
+  },
+  {
+    "id": 24,
+    "name": "Stamp (Comic-Con)"
+  },
+  {
+    "id": 25,
+    "name": "Stamp (Toys \"R\" Us)"
+  },
+  {
+    "id": 26,
+    "name": "Stamp (Burger King)"
+  },
+  {
+    "id": 27,
+    "name": "Stamp (Origins Game Fair)"
+  },
+  {
+    "id": 28,
+    "name": "Stamp (Player Rewards)"
+  },
+  {
+    "id": 29,
+    "name": "Stamp (Build-A-Bear)"
+  },
+  {
+    "id": 30,
+    "name": "Stamp (Arena Cup)"
+  },
+  {
+    "id": 31,
+    "name": "Stamp (International Challenge)"
+  },
+  {
+    "id": 32,
+    "name": "Stamp (Kraze Club)"
+  },
+  {
+    "id": 33,
+    "name": "Stamp (League Cup)"
+  },
+  {
+    "id": 34,
+    "name": "Stamp (EUIC)"
+  },
+  {
+    "id": 35,
+    "name": "Stamp (OCIC)"
+  },
+  {
+    "id": 36,
+    "name": "Stamp (LAIC)"
+  },
+  {
+    "id": 37,
+    "name": "Stamp (NAIC)"
+  },
+  {
+    "id": 38,
+    "name": "Mirage Holo"
+  },
+  {
+    "id": 39,
+    "name": "Cosmos Holo"
+  },
+  {
+    "id": 40,
+    "name": "Stamp (Annual Distributors Meeting)"
+  },
+  {
+    "id": 41,
+    "name": "Wrong illustrator name"
+  },
+  {
+    "id": 43,
+    "name": "Wrong Copyright"
+  },
+  {
+    "id": 44,
+    "name": "Red Cheeks + E3 Stamp"
+  },
+  {
+    "id": 45,
+    "name": "Yellow Cheeks + E3 Stamp"
+  },
+  {
+    "id": 46,
+    "name": "Gold Border (Promo)"
+  },
+  {
+    "id": 47,
+    "name": "Copyright ©1999-2000"
+  },
+  {
+    "id": 48,
+    "name": "Non Holo"
+  },
+  {
+    "id": 49,
+    "name": "Stamp (Pokémon TCG Gym)"
+  },
+  {
+    "id": 51,
+    "name": "Corrected text (Errata)"
+  },
+  {
+    "id": 52,
+    "name": "Japanese Back (Promo)"
+  },
+  {
+    "id": 53,
+    "name": "Stamp (Sample)"
+  },
+  {
+    "id": 54,
+    "name": "Staff (National Championships)"
+  },
+  {
+    "id": 55,
+    "name": "Staff (Regional Championships)"
+  },
+  {
+    "id": 56,
+    "name": "Staff (PreRelease)"
+  },
+  {
+    "id": 57,
+    "name": "Staff (State Championships)"
+  },
+  {
+    "id": 58,
+    "name": "Staff (City Championships)"
+  },
+  {
+    "id": 59,
+    "name": "Staff (Origins Game Fair)"
+  },
+  {
+    "id": 60,
+    "name": "Staff (Comic-Con)"
+  },
+  {
+    "id": 61,
+    "name": "Staff (Arena Cup)"
+  },
+  {
+    "id": 62,
+    "name": "Staff (International Challenge)"
+  },
+  {
+    "id": 63,
+    "name": "Staff (League Cup)"
+  },
+  {
+    "id": 64,
+    "name": "Staff (EUIC)"
+  },
+  {
+    "id": 65,
+    "name": "Staff (OCIC)"
+  },
+  {
+    "id": 66,
+    "name": "Staff (LAIC)"
+  },
+  {
+    "id": 67,
+    "name": "Staff (NAIC)"
+  },
+  {
+    "id": 68,
+    "name": "Mirror Holo"
+  },
+  {
+    "id": 71,
+    "name": "Cracked Ice Holo"
+  },
+  {
+    "id": 72,
+    "name": "Mirror Reverse (Promo)"
+  },
+  {
+    "id": 73,
+    "name": "Tinsel Holo"
+  },
+  {
+    "id": 74,
+    "name": "Sheen Holo"
+  },
+  {
+    "id": 76,
+    "name": "Removed or replaced version"
+  },
+  {
+    "id": 77,
+    "name": "1st Place (League Challenge)"
+  },
+  {
+    "id": 78,
+    "name": "2nd Place (League Challenge)"
+  },
+  {
+    "id": 79,
+    "name": "3rd Place (League Challenge)"
+  },
+  {
+    "id": 80,
+    "name": "4th Place (League Challenge)"
+  },
+  {
+    "id": 81,
+    "name": "Water Web Holo"
+  },
+  {
+    "id": 82,
+    "name": "Top 8 (EUIC)"
+  },
+  {
+    "id": 83,
+    "name": "Top 8 (OCIC)"
+  },
+  {
+    "id": 84,
+    "name": "Top 8 (LAIC)"
+  },
+  {
+    "id": 85,
+    "name": "Top 8 (NAIC)"
+  },
+  {
+    "id": 86,
+    "name": "Champion (EUIC)"
+  },
+  {
+    "id": 87,
+    "name": "Champion (OCIC)"
+  },
+  {
+    "id": 88,
+    "name": "Champion (LAIC)"
+  },
+  {
+    "id": 89,
+    "name": "Champion (NAIC)"
+  },
+  {
+    "id": 90,
+    "name": "Sequin Holo"
+  },
+  {
+    "id": 91,
+    "name": "Unlimited Edition (PreRelease)"
+  },
+  {
+    "id": 92,
+    "name": "Shadowless"
+  },
+  {
+    "id": 93,
+    "name": "4th print"
+  },
+  {
+    "id": 94,
+    "name": "Reverse (Pokeball)"
+  },
+  {
+    "id": 95,
+    "name": "Stamp (Destiny Deoxys)"
+  },
+  {
+    "id": 96,
+    "name": "Stamp (KFC)"
+  },
+  {
+    "id": 97,
+    "name": "Stamp (GameStop)"
+  },
+  {
+    "id": 98,
+    "name": "Stamp (EB Games)"
+  },
+  {
+    "id": 99,
+    "name": "Stamp (Toys Kingdom)"
+  },
+  {
+    "id": 100,
+    "name": "Stamp (Wizard World)"
+  },
+  {
+    "id": 101,
+    "name": "Stamp (25 years)"
+  },
+  {
+    "id": 102,
+    "name": "Stamp (Play! Pokémon)"
+  },
+  {
+    "id": 103,
+    "name": "Copyright 2010"
+  },
+  {
+    "id": 104,
+    "name": "Ditto Sticker"
+  },
+  {
+    "id": 105,
+    "name": "With POGO code"
+  },
+  {
+    "id": 106,
+    "name": "Stamp (20 years)"
+  },
+  {
+    "id": 107,
+    "name": "Stamp (Pokémon Center)"
+  },
+  {
+    "id": 109,
+    "name": "Glossy"
+  },
+  {
+    "id": 110,
+    "name": "Stamp (Iono Zone)"
+  },
+  {
+    "id": 111,
+    "name": "Metal"
+  },
+  {
+    "id": 112,
+    "name": "Champion (Professor Program)"
+  },
+  {
+    "id": 113,
+    "name": "Top 8 (Professor Program)"
+  },
+  {
+    "id": 114,
+    "name": "Staff (Professor Program)"
+  },
+  {
+    "id": 115,
+    "name": "Worlds (Staff)"
+  },
+  {
+    "id": 116,
+    "name": "Worlds (Top Thirty-Two)"
+  },
+  {
+    "id": 117,
+    "name": "Worlds (Top Sixteen)"
+  },
+  {
+    "id": 118,
+    "name": "Worlds (Quarter Finalist)"
+  },
+  {
+    "id": 119,
+    "name": "Worlds (Semi-Finalist)"
+  },
+  {
+    "id": 120,
+    "name": "Worlds (Finalist)"
+  },
+  {
+    "id": 121,
+    "name": "Worlds (Champion)"
+  },
+  {
+    "id": 122,
+    "name": "Stamp (Asia ChampionShip series)"
+  },
+  {
+    "id": 123,
+    "name": "Stamp (Pokemon Together)"
+  },
+  {
+    "id": 124,
+    "name": "Top 8 (Championships Hong-Kong-EN)"
+  },
+  {
+    "id": 125,
+    "name": "Champion (Championships Hong-Kong-EN)"
+  },
+  {
+    "id": 126,
+    "name": "Staff (Championships Hong-Kong-EN)"
+  },
+  {
+    "id": 127,
+    "name": "Stamp (Championships Hong-Kong-EN)"
+  },
+  {
+    "id": 128,
+    "name": "Stamp (Championships Malaysia)"
+  },
+  {
+    "id": 129,
+    "name": "Stamp (Championships Singapore)"
+  },
+  {
+    "id": 130,
+    "name": "Stamp (Championships Philippines)"
+  },
+  {
+    "id": 131,
+    "name": "Staff (Championships Malaysia)"
+  },
+  {
+    "id": 132,
+    "name": "Staff (Championships Singapore)"
+  },
+  {
+    "id": 133,
+    "name": "Staff (Championships Philippines)"
+  },
+  {
+    "id": 134,
+    "name": "Top 8 (Championships Malaysia)"
+  },
+  {
+    "id": 135,
+    "name": "Top 8 (Championships Singapore)"
+  },
+  {
+    "id": 136,
+    "name": "Top 8 (Championships Philippines)"
+  },
+  {
+    "id": 137,
+    "name": "Champion (Championships Malaysia)"
+  },
+  {
+    "id": 138,
+    "name": "Champion (Championships Singapore)"
+  },
+  {
+    "id": 139,
+    "name": "Champion (Championships Philippines)"
+  },
+  {
+    "id": 140,
+    "name": "Stamp (Philippines League Regional)"
+  },
+  {
+    "id": 141,
+    "name": "Stamp (Singapore League Regional)"
+  },
+  {
+    "id": 142,
+    "name": "Stamp (Pokémon TCG Beginner's Session)"
+  },
+  {
+    "id": 143,
+    "name": "Line Holo (PPS)"
+  },
+  {
+    "id": 144,
+    "name": "Non Holo (PPS)"
+  },
+  {
+    "id": 147,
+    "name": "Cosmos Holo (PPS)"
+  },
+  {
+    "id": 149,
+    "name": "Holo Ultra Rare (PPS)"
+  },
+  {
+    "id": 150,
+    "name": "Acid Wash Holo"
+  },
+  {
+    "id": 151,
+    "name": "Stamp (Malaysia League Regional)"
+  },
+  {
+    "id": 152,
+    "name": "Stamp (Hong-Kong-EN League Regional)"
+  },
+  {
+    "id": 153,
+    "name": "Line Holo"
+  },
+  {
+    "id": 154,
+    "name": "Star Holo"
+  },
+  {
+    "id": 156,
+    "name": "Stamp (golden W)"
+  },
+  {
+    "id": 157,
+    "name": "Stamp (Pokémon Center NY)"
+  },
+  {
+    "id": 158,
+    "name": "Stamp (10th years)"
+  },
+  {
+    "id": 159,
+    "name": "Stamp (expansion's logo)"
+  },
+  {
+    "id": 160,
+    "name": "Stamp (Legendary Pokémon)"
+  },
+  {
+    "id": 161,
+    "name": "No Holo Reverse"
+  },
+  {
+    "id": 162,
+    "name": "Stamp (Games Expo 2007)"
+  },
+  {
+    "id": 163,
+    "name": "Stamp (Pokémon Rocks America 2005)"
+  },
+  {
+    "id": 164,
+    "name": "Stamp (Nintendo World)"
+  },
+  {
+    "id": 165,
+    "name": "No Holo (Black logo on back)"
+  },
+  {
+    "id": 166,
+    "name": "No Holo (Green logo on back)"
+  },
+  {
+    "id": 167,
+    "name": "No Holo (Red logo on back)"
+  },
+  {
+    "id": 168,
+    "name": "Stamp (topps 75th)"
+  },
+  {
+    "id": 169,
+    "name": "Holo (Smooth Rainbow Foil)"
+  },
+  {
+    "id": 170,
+    "name": "Holo (Sunrays Silver Foil)"
+  },
+  {
+    "id": 171,
+    "name": "Holo (Sunrays Rainbow Foil)"
+  },
+  {
+    "id": 172,
+    "name": "Holo (Flames Silver Foil)"
+  },
+  {
+    "id": 173,
+    "name": "Holo (Flames Rainbow Foil)"
+  },
+  {
+    "id": 174,
+    "name": "Holo (Pokeballs Silver Foil)"
+  },
+  {
+    "id": 175,
+    "name": "Holo (Pokeballs Rainbow Foil)"
+  },
+  {
+    "id": 176,
+    "name": "1st Edition (©1995, 96, 98 © 1999-2000)"
+  },
+  {
+    "id": 177,
+    "name": "No stamp"
+  },
+  {
+    "id": 178,
+    "name": "Confetti Holo"
+  },
+  {
+    "id": 179,
+    "name": "Stamp (Canadian EB Games)"
+  },
+  {
+    "id": 180,
+    "name": "Without e-Reader logo"
+  },
+  {
+    "id": 181,
+    "name": "Cosmos Reverse"
+  },
+  {
+    "id": 182,
+    "name": "Speckle Holo"
+  },
+  {
+    "id": 183,
+    "name": "Stamp (World Championships 2024)"
+  },
+  {
+    "id": 184,
+    "name": "Stamp (7-Eleven)"
+  },
+  {
+    "id": 185,
+    "name": "Stamp (Rain City Showcase)"
+  },
+  {
+    "id": 186,
+    "name": "Stamp (Premier Ball League)"
+  },
+  {
+    "id": 187,
+    "name": "Stamp (Great Ball League)"
+  },
+  {
+    "id": 188,
+    "name": "Stamp (Ultra Ball League)"
+  },
+  {
+    "id": 189,
+    "name": "Stamp (Horizons The Series)"
+  },
+  {
+    "id": 190,
+    "name": "Stamp (Premier Ball League Judge)"
+  },
+  {
+    "id": 191,
+    "name": "Alternate Pokedex Description"
+  },
+  {
+    "id": 192,
+    "name": "Green background"
+  },
+  {
+    "id": 193,
+    "name": "Double Gold Stars Rarity (Special Illustration Rare)"
+  },
+  {
+    "id": 194,
+    "name": "No Copyright"
+  },
+  {
+    "id": 195,
+    "name": "2005 Copyright"
+  },
+  {
+    "id": 196,
+    "name": "2004 Copyright"
+  },
+  {
+    "id": 197,
+    "name": "Reverse (Masterball)"
+  },
+  {
+    "id": 198,
+    "name": "Error (Poké-Body)"
+  },
+  {
+    "id": 199,
+    "name": "2006 Copyright"
+  },
+  {
+    "id": 200,
+    "name": "Back (Trainer Deck A)"
+  },
+  {
+    "id": 201,
+    "name": "Back (Trainer Deck B)"
+  },
+  {
+    "id": 202,
+    "name": "Missing Japanese annotations"
+  },
+  {
+    "id": 203,
+    "name": "Stamp (Master Ball League)"
+  },
+  {
+    "id": 204,
+    "name": "Stamp (Master Ball League Judge)"
+  },
+  {
+    "id": 205,
+    "name": "Top 4 (Professor Program)"
+  },
+  {
+    "id": 206,
+    "name": "Stamp (Thank You)"
+  },
+  {
+    "id": 208,
+    "name": "Stamp (expansion's logo right)"
+  },
+  {
+    "id": 209,
+    "name": "Stamp (expansion's logo left)"
+  },
+  {
+    "id": 210,
+    "name": "Stamp (Asia Promo)"
+  },
+  {
+    "id": 211,
+    "name": "Stamp (Trick or Trade)"
+  },
+  {
+    "id": 212,
+    "name": "Gold signature"
+  },
+  {
+    "id": 213,
+    "name": "Energy Reverse (Promo)"
+  }
+]
